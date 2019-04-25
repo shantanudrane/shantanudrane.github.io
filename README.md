@@ -1,6 +1,6 @@
 ## Shantanu Rane&rsquo;s website
 
-See [shantanudrane.github.io](https://shantanudrane.github.io).
+See [srane.github.io](https://srane.github.io).
 
 ---
 
