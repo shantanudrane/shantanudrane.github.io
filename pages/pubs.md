@@ -138,10 +138,6 @@ description: Shantanu Rane's publications
    <li> <p>P. Baccichet, S. Rane and D. Y. Suh, Core Experiment 9 on Error Resilience Schemes for H.264/AVC and SVC, Document No. JVT-T309, 20th JVT meeting, Klagenfurt, Austria, July 15-21, 2006. [ <a href="http://ftp3.itu.ch/av-arch/jvt-site/2006_07_Klagenfurt/JVT-T309.zip">zip</a> ]</p> </li>
    <li> <p>S. Rane, P. Baccichet and B. Girod, Progress report on CE9: Systematic Lossy Error Protection based on H.264/AVC Redundant Slices , Document No. JVT-U057, 21st JVT meeting, Hangzhou, China, October 21-26, 2006. [ <a href="http://ftp3.itu.ch/av-arch/jvt-site/2006_10_Hangzhou/JVT-U057.zip">zip</a> ]</p> </li>
    <li> <p>R. Cohen, S. Rane, H. Sun and A. Vetro, Low Complexity Embedding of Information in Transform Coefficients, Document No. JCTVC-E428, 5th JCT-VC meeting, Geneva, Switzerland, March 16-23, 2011. [ <a href="http://phenix.it-sudparis.eu/jct/doc_end_user/current_document.php?id=2364">doc</a> ]</p> </li>
-</ol>
-
-<h2><b> Standardization Contributions [ Biometrics ]</b> </h2>
-   <ol>
   <li> <p>  S. Rane, Secure Biometrics: Principles, Implementation and Metrics, An informational presentation to M1.5, INCITS/M1 meeting, Morgantown, WV, April 2010. Also presented to the ISO/SC37 Subcommittee on Biometrics, Melaka, Malaysia, July 2010.
 </p></li>
    <li> <p>  S. Rane, Performance Evaluation of Biometric Template Protection Systems, A technical contribution to M1.5, INCITS/M1 meeting, Gaithersburg, MD, April 2012. </p></li>
