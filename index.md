@@ -44,7 +44,7 @@ SC37 Subcommittee on Biometrics.
 
             <div id="hide_email">
             Email: sdrane AT gmail DOT com <br/>
-            Phone: 650-387-8086
+            Phone: +1-650-387-8086
             </div>
         </div>
 
