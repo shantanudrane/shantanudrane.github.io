@@ -5,11 +5,12 @@ description: Shantanu Rane is a researcher in security and privacy at the Palo A
 ---
 
 Shantanu Rane manages the Cyber-Physical Systems Security research area at
-[PARC](https://www.parc.com). His research background is in applied cryptography, 
-statistics and signal processing. He conducts research in security and privacy. 
+[PARC](https://www.parc.com). His background is in applied cryptography, 
+statistics and signal processing. He works on fundamental and 
+applied problems in security and privacy. 
 
 Shantanu earned a Ph.D. in electrical engineering from [Stanford
-University](https://www.stanford.edu), California in 2007, a Masters degree in 
+University](https://www.stanford.edu), California in 2007, a Masters in 
 electrical engineering from 
 [The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a 
 Bachelors degree in instrumentation engineering from Pune University, India in 1999. 
