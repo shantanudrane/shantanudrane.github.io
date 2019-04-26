@@ -19,7 +19,7 @@ description: Shantanu Rane's Research
 ### <a name="cpssecurity"></a>CPS security
 
 
-### <a name="privacy"></a>privacy 
+### <a name="privacy"></a>data privacy 
 This research is concerned with inferring knowledge from data in such a way that 
 the data, or the algorithm, or the inference have to be protected from adversaries. 
 The approaches followed depend upon the kinds of security and privacy guarantees 
