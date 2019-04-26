@@ -29,7 +29,7 @@ encrypted domain. We also investigate unconditionally secure approaches such as
 secret sharing, and statistically private mechanisms based on differential 
 privacy.
 
-Some representative publications:
+**Some representative publications:**
 1. S. Rane and P. Boufounos, Privacy-Preserving Nearest Neighbor Methods, IEEE Signal
  Processing Magazine, Vol. 30, No. 2, pp. 18--28, March 2013. 
 ([link](https://ieeexplore.ieee.org/document/6461631))  
@@ -51,7 +51,7 @@ comparisons of test biometrics against the enrolled biometric identities, we hav
 information-theoretic primitives, such as fuzzy vaults, and cryptographic primitives, such 
 as homomorphic encryption.
 
-Some representative publications:
+**Some representative publications:**
 1. S. Rane, Y. Wang, S. C. Draper and P. Ishwar, Secure Biometrics: Concepts, Authentication 
 Architectures, and Challenges, IEEE Signal Processing Magazine, Vol. 30, No. 5, pp. 51--64, 
 September 2013. ([link](https://ieeexplore.ieee.org/document/6582729))
@@ -71,7 +71,7 @@ Lemma to quantized embeddings. Furthermore, by carefully designing the quantizer
 with an interesting information-theoretic privacy property. This makes them useful in the design of privacy-aware
 nearest neighbor protocols.
 
-Some representative publications:
+**Some representative publications:**
 1. M. Li, S. Rane and P. Boufounos, Quantized Embeddings of Scale-Invariant Image Features for Mobile Augmented 
 Reality, IEEE International Workshop on Multimedia Signal Processing (MMSP 2012), Banff, Canada, September 2012.
  ([paper](http://www.merl.com/publications/TR2012-073)) 
