@@ -44,6 +44,10 @@ Forensics and Security (WIFS 2015), Rome, Italy, November 2015. ([paper]())
 
 ### <a name="biometrics"></a>biometrics
 
+<img src = "assets/pics/BSCmodel.jpg"
+     alt = "biometric error channel"
+     width = "500" />
+
 This work encompasses the theory, software implementation, and standardization of secure 
 fingerprint-based biometric recognition systems. As a biometric is an irreplaceable attribute
  of a person, loss or theft of the biometric leaves her vulnerable to spoofing, identity theft 
@@ -65,6 +69,10 @@ Privacy and Reusability Across Secure Biometric Systems, IEEE Trans. Information
 and Security, Vol. 7, No. 6, pp. 1825--1840, December 2012. ([link](https://arxiv.org/abs/1112.5630))
 
 ### <a name="embeddings"></a>signal embeddings
+
+<img src = "assets/pics/qjl.jpg"
+     alt = "Quantized Johnson-Lindenstrauss Embeddings"
+     width = "500" />
 
 This research was concerned with efficient machine learning operations on high-dimensional signals, such as 
 images and videos. The philosophy is to map high-dimensional signals into a low-dimensional vector space 
