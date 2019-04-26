@@ -21,7 +21,7 @@ Coming soon.
 
 ### <a name="privacy"></a>data privacy 
 
-<img src = "assets/pics/PPNN.jpg"
+<img src = "../assets/pics/PPNN.jpg"
      alt = "Privacy-preserving nearest neighbors"
      width = "500" />
 
@@ -44,7 +44,7 @@ Forensics and Security (WIFS 2015), Rome, Italy, November 2015. ([paper]())
 
 ### <a name="biometrics"></a>biometrics
 
-<img src = "assets/pics/BSCmodel.jpg"
+<img src = "../assets/pics/BSCmodel.jpg"
      alt = "biometric error channel"
      width = "500" />
 
@@ -70,7 +70,7 @@ and Security, Vol. 7, No. 6, pp. 1825--1840, December 2012. ([link](https://arxi
 
 ### <a name="embeddings"></a>signal embeddings
 
-<img src = "assets/pics/qjl.jpg"
+<img src = "../assets/pics/qjl.jpg"
      alt = "Quantized Johnson-Lindenstrauss Embeddings"
      width = "500" />
 
