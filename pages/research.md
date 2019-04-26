@@ -30,11 +30,25 @@ secret sharing, and statistically private mechanisms based on differential
 privacy.
 
 Some representative publications:
-1. S. Rane and P. Boufounos, Privacy-Preserving Nearest Neighbor Methods, IEEE Signal Processing Magazine, Vol. 30, No. 2, pp. 18--28, March 2013. [[link](https://ieeexplore.ieee.org/document/6461631?tp=&arnumber=6461631&contentType=Journals%20%26%20Magazines&sortType%3Dasc_p_Sequence%26filter%3DAND(p_IS_Number:6461589)=) ] 
-2. S. Rane, J. Freudiger, A. Brito, E. Uzun, Privacy, Efficiency and Fault Tolerance in Aggregate Computations on Massive Star Networks, IEEE Workshop on Information Forensics and Security (WIFS 2015), Rome, Italy, November 2015. [ [paper]() ]
+1. S. Rane and P. Boufounos, Privacy-Preserving Nearest Neighbor Methods, IEEE Signal Processing Magazine, Vol. 30, No. 2, pp. 18--28, March 2013. ([link](https://ieeexplore.ieee.org/document/6461631))  
+2. S. Rane, J. Freudiger, A. Brito, E. Uzun, Privacy, Efficiency and Fault Tolerance in Aggregate Computations on Massive Star Networks, IEEE Workshop on Information Forensics and Security (WIFS 2015), Rome, Italy, November 2015. ([paper]())
 
 ### <a name="biometrics"></a>biometrics
 
+This work encompasses the theory, software implementation, and standardization of secure 
+fingerprint-based biometric recognition systems. As a biometric is an irreplaceable attribute
+ of a person, loss or theft of the biometric leaves her vulnerable to spoofing, identity theft 
+and loss of sensitive data. To insulate a user from such vulnerabilities, we construct biometric
+ recognition methods that do not require the system to store a person's biometric (or biometric 
+features) in the clear. This work is interdisciplinary. It involves the use of image processing 
+and machine learning to identify and extract discriminative features from human biometrics. 
+To prevent the extracted features from being accessed by adversaries while also allowing the 
+comparisons of test biometrics against the enrolled biometric identities, we have employed 
+information-theoretic primitives, such as fuzzy vaults, and cryptographic primitives, such 
+as homomorphic encryption.
 
+Some representative publications:
+1. S. Rane, Y. Wang, S. C. Draper and P. Ishwar, Secure Biometrics: Concepts, Authentication Architectures, and Challenges, IEEE Signal Processing Magazine, Vol. 30, No. 5, pp. 51--64, September 2013. ([link](https://ieeexplore.ieee.org/document/6582729))
+2. Y. Wang, S. Rane, S. C. Draper and P. Ishwar, A Theoretical Analysis of Authentication, Privacy and Reusability Across Secure Biometric Systems, IEEE Trans. Information Forensics and Security, Vol. 7, No. 6, pp. 1825--1840, December 2012. ([link](https://arxiv.org/abs/1112.5630))
 
 ### <a name="embeddings"></a>signal exrmbeddings
