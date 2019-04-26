@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: press
 description: Shantanu Rane's contributions to news articles
 ---
 

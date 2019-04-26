@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-description: Shantanu Rane's publications
+title: society activities and service
+description: Shantanu Rane's Academic Activities
 ---
 
 <div class="navbar">
