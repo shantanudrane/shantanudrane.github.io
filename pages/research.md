@@ -23,7 +23,7 @@ Coming soon.
 
 <img src = "../assets/pics/PPNN.jpg"
      alt = "Privacy-preserving nearest neighbors"
-     width = "500" />
+     width = "650" />
 
 This research is concerned with inferring knowledge from data in such a way that 
 the data, or the algorithm, or the inference have to be protected from adversaries. 
@@ -46,7 +46,7 @@ Forensics and Security (WIFS 2015), Rome, Italy, November 2015. ([paper]())
 
 <img src = "../assets/pics/BSCmodel.jpg"
      alt = "biometric error channel"
-     width = "500" />
+     width = "400" />
 
 This work encompasses the theory, software implementation, and standardization of secure 
 fingerprint-based biometric recognition systems. As a biometric is an irreplaceable attribute
@@ -72,7 +72,7 @@ and Security, Vol. 7, No. 6, pp. 1825--1840, December 2012. ([link](https://arxi
 
 <img src = "../assets/pics/qjl.jpg"
      alt = "Quantized Johnson-Lindenstrauss Embeddings"
-     width = "500" />
+     width = "650" />
 
 This research was concerned with efficient machine learning operations on high-dimensional signals, such as 
 images and videos. The philosophy is to map high-dimensional signals into a low-dimensional vector space 
