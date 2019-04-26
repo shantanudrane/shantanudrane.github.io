@@ -33,7 +33,7 @@ IEEE Workshop on Information Forensics and Security (WIFS): 2011, 2012, <a href 
 European Signal Processing Conference (EUSIPCO): <a href = "http://www.eusipco2012.org/home.php">2012</a><br>
 IAPR International Conference on Biometrics (ICB): <a href = "http://icb12.iiitd.ac.in/pcommitee.html">2012</a>, 2015<br>
 International Symposium on Multimedia for Wireless (ISMW): <a href="http://videonet.ece.missouri.edu/ismw2008/index.htm">2008</a><br>
-IEEE Global Conference on Signal and Image Processing (GlobalSIP): <a href=http://www.ieeeglobalsip.org">2013</a>
+IEEE Global Conference on Signal and Image Processing (GlobalSIP): <a href="http://www.ieeeglobalsip.org">2013</a>
 </p>
 
 ### <a name="chairing"></a>chairing and organization
