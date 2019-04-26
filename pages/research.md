@@ -17,9 +17,14 @@ description: Shantanu Rane's Research
 
 
 ### <a name="cpssecurity"></a>CPS security
-
+Coming soon.
 
 ### <a name="privacy"></a>data privacy 
+
+<img src = "assets/pics/PPNN.jpg"
+     alt = "Privacy-preserving nearest neighbors"
+     width = "500" />
+
 This research is concerned with inferring knowledge from data in such a way that 
 the data, or the algorithm, or the inference have to be protected from adversaries. 
 The approaches followed depend upon the kinds of security and privacy guarantees 
