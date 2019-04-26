@@ -27,7 +27,6 @@ Processing Letters](https://signalprocessingsociety.org/publications-resources/i
 for ITU-T/MPEG H.264/AVC video compression standard, and the ISO/IEC JTC1 
 SC37 Subcommittee on Biometrics. 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/ShantanuRane_CV.pdf)<br/>
 [google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en)<br/>
 [twitter](https://twitter.com/shantanudrane) <br/>
 ---
