@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shantanu Rane | Home
+title: about
 description: Shantanu Rane is a researcher in security and privacy at the Palo Alto Research Center.
 ---
 
@@ -18,9 +18,11 @@ Institute of Fundamental Research, Pune) and at Mitsubishi Electric Research
 Laboratories ([MERL](http://www.merl.com)) in Cambridge, Massachusetts.
 
 He has served as an associate editor for 
-the IEEE Transactions on Information Forensics and Security (2012-2015,
-2018-present), the IEEE Signal Processing Magazine and the IEEE Signal 
-Processing Letters (2012-2014). He has participated in standardization activity 
+the [IEEE Transactions on Information Forensics and
+Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security) (2012-2015,
+2018-present), the [IEEE Signal Processing
+Magazine](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine) and the [IEEE Signal 
+Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/ieee-signal-processing-letters) (2012-2014). He has participated in standardization activity 
 for ITU-T/MPEG H.264/AVC video compression standard, and the ISO/IEC JTC1 
 SC37 Subcommittee on Biometrics. 
 
