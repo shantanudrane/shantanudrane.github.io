@@ -17,7 +17,13 @@ description: Shantanu Rane's Research
 
 
 ### <a name="cpssecurity"></a>CPS security
-Coming soon.
+This work pertains to the detection and prevention of attacks on cyber-physical
+systems, ranging from small home IoT networks, to networks of enterprise IoT
+devices, to electrical grid installations. We work on several topics in CPS
+security: One line of work is aimed at automatically deriving component 
+configurations that optimally balance the security and functionality of a
+composed IoT system. A second line of work is aimed at developing secure and
+usable workflows involving mobile phones and IoT devices.
 
 ### <a name="privacy"></a>data privacy 
 
