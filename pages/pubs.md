@@ -23,6 +23,7 @@ description: Shantanu Rane's publications
 
 ### <a name="journals"></a>journal and magazine articles
 <ol>
+<li><p>P. Boufounos, S. Rane and H. Mansour, Representation and Coding of Signal Geometry,Information and Inference, 2017.</p></li>
 <li>    <p>P. Boufounos, H. Mansour, S. Rane, and A. Vetro, Dimensionality Reduction of Visual Features for Efficient Retrieval and Classification, APSIPA Transactions on Signal and Information Processing, Vol. 5, e14, July 2016. [<a href = "http://journals.cambridge.org/action/displayFulltext?type=1&pdftype=1&fid=10403854&jid=SIP&volumeId=5&issueId=-1&aid=10403849">link</a>] </p></li>
 <li>    <p>S. Rane, Standardization of Biometric Template Protection, IEEE Multimedia Magazine, Vol. 21, No. 4, pp. 94--99, October 2014. [<a href = "http://www.computer.org/csdl/mags/mu/2014/04/mmu2014040094-abs.html">link</a>] </p></li>
 <li>    <p>S. Rane, Y. Wang, S. C. Draper and P. Ishwar, Secure Biometrics: Concepts, Authentication Architectures, and Challenges, IEEE Signal Processing Magazine, Vol. 30, No. 5, pp. 51--64, September 2013. [<a href = "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6582729&sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6582697%29">link</a>] [<a href="http://arxiv.org/abs/1305.4832">preprint</a>] </p></li>
@@ -38,8 +39,11 @@ description: Shantanu Rane's publications
 </ol>
 
 ### <a name="chapters"></a>book chapter
-<p>A. Vetro, S. C. Draper, S. Rane and J. S. Yedida, Securing Biometric Data, in Distributed Source Coding - Theory and Applications, P. L. Dragotti and M. Gastpar Eds., ISBN-13: 978-0-12-374485-2, Elsevier Academic Press, 2009. [<a href = "http://www.elsevier.com/wps/find/bookdescription.cws_home/714567/description#description">Link</a>]</p>
-
+<ol>
+<li><p>P. Boufounos, S. Rane, H. Mansour, Embedding-Based Representation of Signal Geometry, Excursions in Harmonic Analysis, Volume 5: The February Fourier Talks at the Norbert Wiener Center, Part XIX: Quantization, p.155., 2017.</p></li>
+<li>
+<p>A. Vetro, S. C. Draper, S. Rane and J. S. Yedida, Securing Biometric Data, in Distributed Source Coding - Theory and Applications, P. L. Dragotti and M. Gastpar Eds., ISBN-13: 978-0-12-374485-2, Elsevier Academic Press, 2009. [<a href = "http://www.elsevier.com/wps/find/bookdescription.cws_home/714567/description#description">Link</a>]</p></li>
+</ol>
 
 ### <a name="conferences"></a>conference papers
 <ol>
