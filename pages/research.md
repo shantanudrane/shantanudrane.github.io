@@ -32,7 +32,8 @@ desired and the strength of the adversary. We employ computationally secure
 primitives, such as homomorphic encryption, for manipulating data in the 
 encrypted domain. We also investigate unconditionally secure approaches such as 
 secret sharing, and statistically private mechanisms based on differential 
-privacy.
+privacy. For differentially private methods, in particular, we are working on 
+new approaches that preserve privacy in online, active learning scenarios.
 
 **Some representative publications:**
 1. S. Rane and P. Boufounos, Privacy-Preserving Nearest Neighbor Methods, IEEE Signal
