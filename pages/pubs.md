@@ -40,7 +40,7 @@ description: Shantanu Rane's publications
 
 ### <a name="chapters"></a>book chapter
 <ol>
-<li><p>P. Boufounos, S. Rane, H. Mansour, Embedding-Based Representation of Signal Geometry, Excursions in Harmonic Analysis, Volume 5: The February Fourier Talks at the Norbert Wiener Center, Part XIX: Quantization, p.155., 2017.</p></li>
+<li><p>P. Boufounos, S. Rane, H. Mansour, Embedding-Based Representation of Signal Geometry, Excursions in Harmonic Analysis, Volume 5: The February Fourier Talks at the Norbert Wiener Center, Part XIX: Quantization, p.155., 2017. [ <a href = "https://link.springer.com/chapter/10.1007/978-3-319-54711-4_7">link</a> ]</p></li>
 <li>
 <p>A. Vetro, S. C. Draper, S. Rane and J. S. Yedida, Securing Biometric Data, in Distributed Source Coding - Theory and Applications, P. L. Dragotti and M. Gastpar Eds., ISBN-13: 978-0-12-374485-2, Elsevier Academic Press, 2009. [<a href = "http://www.elsevier.com/wps/find/bookdescription.cws_home/714567/description#description">Link</a>]</p></li>
 </ol>
