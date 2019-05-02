@@ -5,6 +5,7 @@ description: Shantanu Rane's contributions to news articles
 ---
 
 <ol>
+  <li><p>Maria Korolov, The Ideal Data Center Access Control Device May Be in Your Pocket, Data Center Knowledge, April 23, 2019. [<a href = "https://www.datacenterknowledge.com/security/ideal-data-center-access-control-device-may-be-your-pocket">article</a>]</p></li>  
 <li>    <p>  Curtis Brainard, <i>Beyond Fingerprints: High-Five to Unlock</i>, The New Yorker, Elements Blog, October 18, 2013. [<a href="http://www.newyorker.com/online/blogs/elements/2013/10/iphone-fingerprints-biometric-security-gesture-to-unlock.html">article</a>]</p></li>
 <li>    <p>  Tim De Chant, <i>The Boring and Exciting World of Biometrics</i>, NOVANext, PBS (WGBH), June 18, 2013. [<a href="http://www.pbs.org/wgbh/nova/next/tech/biometrics-and-the-future-of-identification/">article</a>]</p></li>
 <li>    <p>  Ken Chiacchia, <i>Speaking of security: Voiceprint authentication a la Star Trek could be poised to become reality</i>, The Link, Magazine of the Carnegie Mellon University School of Computer Science, Issue 7.1, Spring 2013. [<a href="http://link.cs.cmu.edu/article.php?a=776">article</a>]</p></li>
