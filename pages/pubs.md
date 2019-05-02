@@ -109,7 +109,7 @@ description: Shantanu Rane's publications
 <li>	<p>A. Varna, S. Rane and A. Vetro, Data Hiding in Hard-Copy Text Documents Robust to Print, Scan and Photocopy Operations, IEEE
 	International Conference on Acoustics, Speech and Signal Processing, Taipei, Taiwan, April, 2009. [<a href = "http://www.merl.com/publications/TR2009-020/">paper</a>]</p></li>
 
-   <li> <p>G. Fraidenraich, Z. Xu, S. Rane and J. Cioffi, On Capacity of Frequency-Selective Multipath Channels with Path Correlations, 9th IEEE International Workshop on Signal Processing Advances in Wireless Communications, Recife, Brazil, July 6-9, 2008. [<a href = "papers/fraidenraich08spawc.pdf">paper</a>] </p></li>
+   <li> <p>G. Fraidenraich, Z. Xu, S. Rane and J. Cioffi, On Capacity of Frequency-Selective Multipath Channels with Path Correlations, 9th IEEE International Workshop on Signal Processing Advances in Wireless Communications, Recife, Brazil, July 6-9, 2008. [<a href = "../assets/docs/fraidenraich08spawc.pdf">paper</a>] </p></li>
 
 <li>	<p>Y. Sutcu, S. Rane, J. S. Yedidia, S. C. Draper, and A. Vetro, Feature Extraction for a Slepian-Wolf Biometric System using LDPC Codes, IEEE International Symposium on Information Theory (ISIT 2008), pp. 2297-2301, Toronto, Canada, July 2008. [<a href = "http://www.merl.com/publications/TR2008-036/">paper</a>] </p></li>
 
