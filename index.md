@@ -4,29 +4,17 @@ title: about
 description: Shantanu Rane is a researcher in security and privacy at the Palo Alto Research Center.
 ---
 
-Shantanu Rane manages the Cyber-Physical Systems Security research area at
-[PARC](https://www.parc.com). His background is in applied cryptography, 
-statistics and signal processing. He works on fundamental and 
-applied problems in security and privacy. 
+I manage the Cyber-Physical Systems Security research area at
+[PARC](https://www.parc.com). My research background is in applied cryptography, statistics and signal processing. I work on fundamental and
+applied problems in security and privacy.
 
-Shantanu earned a Ph.D. in electrical engineering from [Stanford
-University](https://www.stanford.edu), California in 2007, a Masters in 
-electrical engineering from 
-[The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a 
-Bachelors degree in instrumentation engineering from Pune University, India in 1999. 
-He has previously worked at the National Center for Radio Astrophysics (Tata 
-Institute of Fundamental Research, Pune) and at Mitsubishi Electric Research 
-Laboratories ([MERL](http://www.merl.com)) in Cambridge, Massachusetts.
+I earned a Ph.D. in electrical engineering from [Stanford
+University](https://www.stanford.edu), California in 2007, a Masters in
+electrical engineering from
+[The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a
+Bachelors degree in instrumentation engineering from Pune University, India in 1999. I have  previously worked at the National Center for Radio Astrophysics (Tata Institute of Fundamental Research, Pune) and at Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, Massachusetts.
 
-He has served as an associate editor for 
-the [IEEE Transactions on Information Forensics and
-Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security) (2012-2015,
-2018-present), the [IEEE Signal Processing
-Magazine](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-magazine) and the [IEEE Signal 
-Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/ieee-signal-processing-letters) (2012-2014). He has participated in standardization activity 
-for ITU-T/MPEG H.264/AVC video compression standard, and the ISO/IEC JTC1 
-SC37 Subcommittee on Biometrics. 
-
+[IEEE biography](pages/ieeebio.md)
 [google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en)<br/>
 [twitter](https://twitter.com/shantanudrane) <br/>
 ---
