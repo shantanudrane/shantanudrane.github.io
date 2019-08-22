@@ -7,8 +7,7 @@ description: Shantanu Rane's Academic Activities
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#editorshisp">editorships</a></li>
-            <li><a href="#reviewing">reviewing</a></li>
+            <li><a href="#editorships">editorships</a></li>
             <li><a href="#chairing">chairing</a></li>
             <li><a href="#standards">standards</a></li>
         </ul>
@@ -25,7 +24,7 @@ Associate Editor: <a href="http://signalprocessingsociety.org/newsletter/">Insid
 Member: <a href="http://www.signalprocessingsociety.org/technical-committees/list/ifs-tc/">Information Forensics and Security Technical Committee</a>: 2011-2013
 </p>
 
-
+<!--
 ### <a name="reviewing"></a>reviewing
 <p>
 IEEE International Conference on Multimedia and Expo (ICME): <a href="http://www.icme2010.org">2010</a>, <a href = "http://www.icme2011.org">2011</a>, <a href = "http://www.icem2012.org">2012</a>, <a href= "http://www.icme2013.org/index.php">2013</a><br>
@@ -34,7 +33,7 @@ European Signal Processing Conference (EUSIPCO): <a href = "http://www.eusipco20
 IAPR International Conference on Biometrics (ICB): <a href = "http://icb12.iiitd.ac.in/pcommitee.html">2012</a>, 2015<br>
 International Symposium on Multimedia for Wireless (ISMW): <a href="http://videonet.ece.missouri.edu/ismw2008/index.htm">2008</a><br>
 IEEE Global Conference on Signal and Image Processing (GlobalSIP): <a href="http://www.ieeeglobalsip.org">2013</a>
-</p>
+</p> -->
 
 ### <a name="chairing"></a>chairing and organization
 <p>
@@ -51,4 +50,3 @@ IEEE Global Conference on Signal and Image Processing (GlobalSIP): <a href="http
 <a href="http://wftp3.itu.int/av-arch/jvt-site/">ITU-T H.264/AVC Video Coding
 		Standard (2006)</a>
 </p>
-
