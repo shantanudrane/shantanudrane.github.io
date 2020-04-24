@@ -23,6 +23,7 @@ description: Shantanu Rane's publications
 
 ### <a name="journals"></a>journal and magazine articles
 <ol>
+<li><p>D. Bittner, A. Brito, M. Ghassemi, S. Rane, A. Sarwate and R. Wright, Understanding Privacy-Utility Tradeoffs in Differentially Private Online Active Learning, Journal of Privacy and Confidentiality, 2020, <i>To Appear</i>.</li>	
 <li><p>P. Boufounos, S. Rane and H. Mansour, Representation and Coding of Signal Geometry,Information and Inference, 2017.[
 <a href = "https://doi.org/10.1093/imaiai/iax002">link</a>, <a href = "https://arxiv.org/abs/1512.07636">arXiv</a>]</p></li>
 <li>    <p>P. Boufounos, H. Mansour, S. Rane, and A. Vetro, Dimensionality Reduction of Visual Features for Efficient Retrieval and Classification, APSIPA Transactions on Signal and Information Processing, Vol. 5, e14, July 2016. [<a href = "http://journals.cambridge.org/action/displayFulltext?type=1&pdftype=1&fid=10403854&jid=SIP&volumeId=5&issueId=-1&aid=10403849">link</a>] </p></li>
