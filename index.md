@@ -13,9 +13,7 @@ electrical engineering from
 [The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a
 Bachelors degree in instrumentation engineering from Pune University, India in 1999. I have  previously worked at the National Center for Radio Astrophysics (Tata Institute of Fundamental Research, Pune) and at Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, Massachusetts.
 
-[IEEE biography](pages/ieeebio.md)<br/>
-[google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en)<br/>
-[twitter](https://twitter.com/shantanudrane) <br/>
+[CV]() | [IEEE biography](pages/ieeebio.md) | [google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en) | [twitter](https://twitter.com/shantanudrane) <br/>
 ---
 
 <div class="container">
