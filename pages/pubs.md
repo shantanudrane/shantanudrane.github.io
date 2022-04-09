@@ -18,7 +18,7 @@ description: Shantanu Rane's publications
 
 
 ### <a name="dissertation"></a>dissertation
-<p>S. Rane, Systematic Lossy Error Protection of Video Signals, Ph.D. dissertation, Stanford University, 2007 [<a href="papers/rane-slepthesis.pdf">pdf</a>]</p>
+<p>S. Rane, Systematic Lossy Error Protection of Video Signals, Ph.D. dissertation, Stanford University, 2007 [<a href="../assets/docs/rane-slepthesis.pdf">pdf</a>]</p>
 
 
 ### <a name="journals"></a>journal and magazine articles
