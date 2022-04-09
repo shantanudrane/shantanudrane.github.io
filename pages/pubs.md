@@ -50,7 +50,7 @@ description: Shantanu Rane's publications
 ### <a name="conferences"></a>conference papers
 <ol>
 <li><p>H. Soroush, M. Albanese, M. A. Mehrabadi, I. Iganibo, M. Mosko, J. Gao, D. Fritz, S. Rane and E. Bier, SCIBORG: Secure Configurations for the IoT Based on Optimization and Reasoning on Graphs, IEEE Conference on Networking and Security (CNS 2020), Virtual Conference, June 2020, <i>To Appear</i>.</p></li>
-<li><p>S. Rane and A. E. Brito, A Version Space Perspective on Differentially Private Pool-Based Active Learning, IEEE Workshop on Information Forensics and Security (WIFS 2019), Delft, Netherlands, December 2019. </p></li>	
+<li><p>S. Rane and A. E. Brito, A Version Space Perspective on Differentially Private Pool-Based Active Learning, IEEE Workshop on Information Forensics and Security (WIFS 2019), Delft, Netherlands, December 2019. [<a href="../assets/docs/rane19wifs.pdf">paper</a>]</p></li>	
 <li><p>H. Soroush, S. Rane and M. Albanese, Securing Distributed System Configuration through Optimization and Reasoning on Graphs, Networking and Distributed Systems Symposium (NDSS 2019), San Diego, CA, February 2019. [<a href = "../assets/docs/soroush19ndss-poster.pdf">paper</a>]</p></li>
 <li><p>D. Bittner, S. Rane, A. Brito and R. Wright, A Software Framework for Testing and Evaluation of Differentially Private Active Learning Schemes, Workshop on the Theory and Practice of Differential Privacy (TPDP 2018), Toronto, Canada, October 2018.</p></li>
 <li><p>A. Kulkarni, M. Klenk, S. Rane and H. Soroush, Resource Bounded Goal Obfuscation, AAAI Fall Symposium on Integrating Planning, Diagnosis, and Causal Reasoning, Arlington, VA, October 2018. [<a href = "../assets/docs/kulkarni18aaai.pdf">paper</a>]</p></li>
