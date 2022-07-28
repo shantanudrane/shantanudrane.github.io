@@ -49,7 +49,8 @@ description: Shantanu Rane's publications
 
 ### <a name="conferences"></a>conference papers
 <ol>
-<li><p>Raman Goyal, Christoforos Somarakis, Erfaun Noorani, Shantanu Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted</i></p></li>
+<li><p></p></li>
+<li><p>Raman Goyal, Christoforos Somarakis, Erfaun Noorani, Shantanu Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted.</i></p></li>
 <li><p>Zikui Cai, Shantanu Rane, Alejandro E. Brito, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022.</p></li>
 <li><p>H. Soroush, M. Albanese, M. A. Mehrabadi, I. Iganibo, M. Mosko, J. Gao, D. Fritz, S. Rane and E. Bier, SCIBORG: Secure Configurations for the IoT Based on Optimization and Reasoning on Graphs, IEEE Conference on Networking and Security (CNS 2020), Virtual Conference, June 2020, <b>Best Paper Award</b>.</p></li>
 <li><p>S. Rane and A. E. Brito, A Version Space Perspective on Differentially Private Pool-Based Active Learning, IEEE Workshop on Information Forensics and Security (WIFS 2019), Delft, Netherlands, December 2019. [<a href="../assets/docs/rane19wifs.pdf">paper</a>]</p></li>	
