@@ -23,7 +23,7 @@ description: Shantanu Rane's publications
 
 ### <a name="journals"></a>journal and magazine articles
 <ol>
-<li><p>D. Bittner, A. Brito, M. Ghassemi, S. Rane, A. Sarwate and R. Wright, Understanding Privacy-Utility Tradeoffs in Differentially Private Online Active Learning, Journal of Privacy and Confidentiality, 2020, <i>To Appear</i>.</p></li>	
+<li><p>D. Bittner, A. Brito, M. Ghassemi, S. Rane, A. Sarwate and R. Wright, Understanding Privacy-Utility Tradeoffs in Differentially Private Online Active Learning, Journal of Privacy and Confidentiality, 2020.</p></li>	
 <li><p>P. Boufounos, S. Rane and H. Mansour, Representation and Coding of Signal Geometry,Information and Inference, 2017.[
 <a href = "https://doi.org/10.1093/imaiai/iax002">link</a>, <a href = "https://arxiv.org/abs/1512.07636">arXiv</a>]</p></li>
 <li>    <p>P. Boufounos, H. Mansour, S. Rane, and A. Vetro, Dimensionality Reduction of Visual Features for Efficient Retrieval and Classification, APSIPA Transactions on Signal and Information Processing, Vol. 5, e14, July 2016. [<a href = "http://journals.cambridge.org/action/displayFulltext?type=1&pdftype=1&fid=10403854&jid=SIP&volumeId=5&issueId=-1&aid=10403849">link</a>] </p></li>
@@ -49,7 +49,7 @@ description: Shantanu Rane's publications
 
 ### <a name="conferences"></a>conference papers
 <ol>
-<li><p>Zikui Cai, Shantanu Rane, Alejandro E. Brito, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022<i>To Appear</b>.</i></p></li>
+<li><p>Zikui Cai, Shantanu Rane, Alejandro E. Brito, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022.</p></li>
 <li><p>H. Soroush, M. Albanese, M. A. Mehrabadi, I. Iganibo, M. Mosko, J. Gao, D. Fritz, S. Rane and E. Bier, SCIBORG: Secure Configurations for the IoT Based on Optimization and Reasoning on Graphs, IEEE Conference on Networking and Security (CNS 2020), Virtual Conference, June 2020, <b>Best Paper Award</b>.</p></li>
 <li><p>S. Rane and A. E. Brito, A Version Space Perspective on Differentially Private Pool-Based Active Learning, IEEE Workshop on Information Forensics and Security (WIFS 2019), Delft, Netherlands, December 2019. [<a href="../assets/docs/rane19wifs.pdf">paper</a>]</p></li>	
 <li><p>H. Soroush, S. Rane and M. Albanese, Securing Distributed System Configuration through Optimization and Reasoning on Graphs, Networking and Distributed Systems Symposium (NDSS 2019), San Diego, CA, February 2019. [<a href = "../assets/docs/soroush19ndss-poster.pdf">paper</a>]</p></li>
