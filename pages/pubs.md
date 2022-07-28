@@ -50,10 +50,15 @@ description: Shantanu Rane's publications
 ### <a name="conferences"></a>conference papers
 <ol>
 <li><p>Raman Goyal, Christoforos Somarakis, Erfaun Noorani, Shantanu Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted.</i></p></li>
-<li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems, 30th Mediterranean Conference on Control and Automation (MED 2022), Athens, Greece, July 2022.</p></li>
-<li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Model-Assisted Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems, 17th International Conference on Control & Automation (ICCA 2022), Naples, Italy, June 27-30, 2022.</p></li>
-<li><p>Zikui Cai, Shantanu Rane, Alejandro E. Brito, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022.</p></li>
-<li><p>H. Soroush, M. Albanese, M. A. Mehrabadi, I. Iganibo, M. Mosko, J. Gao, D. Fritz, S. Rane and E. Bier, SCIBORG: Secure Configurations for the IoT Based on Optimization and Reasoning on Graphs, IEEE Conference on Networking and Security (CNS 2020), Virtual Conference, June 2020, <b>Best Paper Award</b>.</p></li>
+	
+<li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems, 30th Mediterranean Conference on Control and Automation (MED 2022), Athens, Greece, July 2022. [<a href = "../assets/docs/noorani22med.pdf">paper</a>]</p></li>
+	
+<li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Model-Assisted Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems, 17th International Conference on Control & Automation (ICCA 2022), Naples, Italy, June 27-30, 2022.[<a href = "../assets/docs/noorani22icca.pdf">paper</a>]</p></li>
+	
+<li><p>Zikui Cai, Shantanu Rane, Alejandro E. Brito, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022. [<a href = "../assets/docs/cai22cvpr.pdf">paper</a>]</p></li>
+	
+<li><p>H. Soroush, M. Albanese, M. A. Mehrabadi, I. Iganibo, M. Mosko, J. Gao, D. Fritz, S. Rane and E. Bier, SCIBORG: Secure Configurations for the IoT Based on Optimization and Reasoning on Graphs, IEEE Conference on Networking and Security (CNS 2020), Virtual Conference, June 2020, <b>Best Paper Award</b>. [<a href = "../assets/docs/soroush20cns.pdf">paper</a>]</p></li>
+	
 <li><p>S. Rane and A. E. Brito, A Version Space Perspective on Differentially Private Pool-Based Active Learning, IEEE Workshop on Information Forensics and Security (WIFS 2019), Delft, Netherlands, December 2019. [<a href="../assets/docs/rane19wifs.pdf">paper</a>]</p></li>	
 <li><p>H. Soroush, S. Rane and M. Albanese, Securing Distributed System Configuration through Optimization and Reasoning on Graphs, Networking and Distributed Systems Symposium (NDSS 2019), San Diego, CA, February 2019. [<a href = "../assets/docs/soroush19ndss-poster.pdf">paper</a>]</p></li>
 <li><p>D. Bittner, S. Rane, A. Brito and R. Wright, A Software Framework for Testing and Evaluation of Differentially Private Active Learning Schemes, Workshop on the Theory and Practice of Differential Privacy (TPDP 2018), Toronto, Canada, October 2018.</p></li>
