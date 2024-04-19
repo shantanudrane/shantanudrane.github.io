@@ -49,6 +49,11 @@ description: Shantanu Rane's publications
 
 ### <a name="conferences"></a>conference papers
 <ol>
+
+<li><p>Dhrubajit Chowdhury, Raman Goyal and Shantanu Rane, Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08181">preprint</a>]</p></li>
+
+<li><p>Raman Goyal, Dhrubajit Chowdhury, and Shantanu Rane, System Design Approach for Control of Differentially Private Dynamical Systems, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08065">preprint</a>]</p></li>
+ 
 <li><p>Raman Goyal, Christoforos Somarakis, Erfaun Noorani, Shantanu Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted.</i></p></li>
 	
 <li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems, 30th Mediterranean Conference on Control and Automation (MED 2022), Athens, Greece, July 2022. [<a href = "../assets/docs/noorani22med.pdf">paper</a>]</p></li>
