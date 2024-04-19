@@ -50,17 +50,17 @@ description: Shantanu Rane's publications
 ### <a name="conferences"></a>conference papers
 <ol>
 
-<li><p>Dhrubajit Chowdhury, Raman Goyal and Shantanu Rane, Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08181">preprint</a>]</p></li>
+<li><p>D. Chowdhury, R. Goyal and S. Rane, Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08181">preprint</a>]</p></li>
 
-<li><p>Raman Goyal, Dhrubajit Chowdhury, and Shantanu Rane, System Design Approach for Control of Differentially Private Dynamical Systems, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08065">preprint</a>]</p></li>
+<li><p>R. Goyal, D. Chowdhury, and S. Rane, System Design Approach for Control of Differentially Private Dynamical Systems, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08065">preprint</a>]</p></li>
  
-<li><p>Raman Goyal, Christoforos Somarakis, Erfaun Noorani, Shantanu Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted.</i></p></li>
+<li><p>R. Goyal, C. Somarakis, E. Noorani, S. Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted.</i></p></li>
 	
-<li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems, 30th Mediterranean Conference on Control and Automation (MED 2022), Athens, Greece, July 2022. [<a href = "../assets/docs/noorani22med.pdf">paper</a>]</p></li>
+<li><p>E. Noorani, C. Somarakis, R. Goyal, A. Feldman, and S. Rane, Learning-Based Diagnostics for Fault Detection and Isolation in Linear Stochastic Systems, 30th Mediterranean Conference on Control and Automation (MED 2022), Athens, Greece, July 2022. [<a href = "../assets/docs/noorani22med.pdf">paper</a>]</p></li>
 	
-<li><p>Erfaun Noorani, Christoforos Somarakis, Raman Goyal, Alexander Feldman, and Shantanu Rane, Model-Assisted Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems, 17th International Conference on Control & Automation (ICCA 2022), Naples, Italy, June 27-30, 2022.[<a href = "../assets/docs/noorani22icca.pdf">paper</a>]</p></li>
+<li><p>E. Noorani, C. Somarakis, R. Goyal, A. Feldman, and S. Rane, Model-Assisted Reinforcement Learning for Online Diagnostics in Stochastic Controlled Systems, 17th International Conference on Control & Automation (ICCA 2022), Naples, Italy, June 27-30, 2022.[<a href = "../assets/docs/noorani22icca.pdf">paper</a>]</p></li>
 	
-<li><p>Zikui Cai, Shantanu Rane, Alejandro E. Brito, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022. [<a href = "../assets/docs/cai22cvpr.pdf">paper</a>]</p></li>
+<li><p>Z. Cai, S. Rane, A. E. Brito, C. Song, S. V. Krishnamurthy, A. K. Roy-Chowdhury and M. Salman Asif, Zero-Query Transfer Attacks on Context-Aware Object Detectors, IEEE Conference on Computer Vision and Pattern Recognition, New Orleans, LA, July 2022. [<a href = "../assets/docs/cai22cvpr.pdf">paper</a>]</p></li>
 	
 <li><p>H. Soroush, M. Albanese, M. A. Mehrabadi, I. Iganibo, M. Mosko, J. Gao, D. Fritz, S. Rane and E. Bier, SCIBORG: Secure Configurations for the IoT Based on Optimization and Reasoning on Graphs, IEEE Conference on Networking and Security (CNS 2020), Virtual Conference, June 2020, <b>Best Paper Award</b>. [<a href = "../assets/docs/soroush20cns.pdf">paper</a>]</p></li>
 	
