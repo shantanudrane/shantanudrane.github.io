@@ -53,6 +53,9 @@ description: Shantanu Rane's publications
 <li><p>D. Chowdhury, R. Goyal and S. Rane, Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08181">preprint</a>]</p></li>
 
 <li><p>R. Goyal, D. Chowdhury, and S. Rane, System Design Approach for Control of Differentially Private Dynamical Systems, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> [<a href = "https://arxiv.org/abs/2403.08065">preprint</a>]</p></li>
+
+<li><p>C. Somarakis, R. Goyal, E. Noorani, and S. Rane, Delay-Induced Watermarking for Detection of Replay Attacks in Linear Systems
+, American Control Conference, Toronto, ON, Canada, July 2024. <i>Accepted.</i> </p></li>
  
 <li><p>R. Goyal, C. Somarakis, E. Noorani, S. Rane, Co-Design of Watermarking and Robust Control for Security in Cyber-Physical Systems, 61st IEEE Conference on Decision and Control, Cancun, Mexico, December 2022. <i>Accepted.</i></p></li>
 	
