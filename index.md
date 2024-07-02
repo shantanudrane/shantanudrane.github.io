@@ -4,7 +4,7 @@ title: about
 description: Shantanu Rane is a researcher in security and privacy at the Palo Alto Research Center.
 ---
 
-I manage cyber-physical systems research at [SRI](https://www.sri.com)'s Future Concepts Division (formerly Xerox PARC). My research background is in applied cryptography, statistics and signal processing. My current projects revolve around fundamental and applied problems in security and privacy and resilience.
+I lead cyber-physical systems research at [SRI](https://www.sri.com)'s Future Concepts Division (formerly Xerox PARC). My research background is in applied cryptography, statistics and signal processing. My current projects revolve around fundamental and applied problems in security and privacy and resilience of cyber-physical systems.
 
 I earned a Ph.D. in electrical engineering from [Stanford
 University](https://www.stanford.edu), California in 2007, a Masters in
