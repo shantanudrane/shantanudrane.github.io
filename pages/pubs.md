@@ -23,6 +23,7 @@ description: Shantanu Rane's publications
 
 ### <a name="journals"></a>journal and magazine articles
 <ol>
+<li><p>K. Goebel and S. Rane, AI in Industrial IoT Cybersecurity, IEEE Computational Intelligence Magazine, Industrial and Governmental Activities, Vol. 19, No. 1, pp. 14-15, February 2024</p></li>	
 <li><p>D. Bittner, A. Brito, M. Ghassemi, S. Rane, A. Sarwate and R. Wright, Understanding Privacy-Utility Tradeoffs in Differentially Private Online Active Learning, Journal of Privacy and Confidentiality, 2020.</p></li>	
 <li><p>P. Boufounos, S. Rane and H. Mansour, Representation and Coding of Signal Geometry,Information and Inference, 2017.[
 <a href = "https://doi.org/10.1093/imaiai/iax002">link</a>, <a href = "https://arxiv.org/abs/1512.07636">arXiv</a>]</p></li>
