@@ -4,15 +4,15 @@ title: about
 description: Shantanu Rane is a researcher in security and privacy at the Palo Alto Research Center.
 ---
 
-I lead cyber-physical systems research at [SRI](https://www.sri.com)'s Future Concepts Division (formerly Xerox PARC). My research background is in applied cryptography, statistics and signal processing. My current projects revolve around fundamental and applied problems in security and privacy and resilience of cyber-physical systems.
+I lead cyber-physical systems research at SRI's [Computer Science Laboratory](https://www.sri.com). My research background is in applied cryptography, statistics and signal processing. My current projects revolve around fundamental and applied problems in security and privacy and resilience of cyber-physical systems.
 
 I earned a Ph.D. in electrical engineering from [Stanford
 University](https://www.stanford.edu), California in 2007, a Masters in
 electrical engineering from
 [The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a
-Bachelors degree in instrumentation engineering from Pune University, India in 1999. I have  previously worked at the National Center for Radio Astrophysics (Tata Institute of Fundamental Research, Pune) and at Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, Massachusetts.
+Bachelors degree in instrumentation engineering from Pune University, India in 1999. I have previously worked at the National Center for Radio Astrophysics (Tata Institute of Fundamental Research, Pune); Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, MA; and Xerox PARC in Palo Alto, CA.
 
-[CV](assets/docs/2022-03-Shantanu-Rane-Brief-CV.pdf) \| [IEEE biography](pages/ieeebio.md) \| [google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en) \| [twitter](https://twitter.com/shantanudrane) <br/>
+[CV](assets/docs/2022-03-Shantanu-Rane-Brief-CV.pdf) \| [IEEE biography](pages/ieeebio.md) \| [google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en) \| [linkedin](https://www.linkedin.com/in/shantanu-rane-research/) <br/>
 
 ---
 
@@ -22,8 +22,6 @@ Bachelors degree in instrumentation engineering from Pune University, India in 1
     <div class="row-fluid">
         <div class="span5">
             Shantanu Rane<br/>
-            <a href="https://www.parc.com">Palo Alto Research Center</a><br/>
-            3333 Coyote Hill Road<br/>
             Palo Alto, CA, 94025<br/>
             <br/><br/>
 
