@@ -1,16 +1,12 @@
 ---
 layout: page
 title: about
-description: Shantanu Rane is a researcher in security and privacy at the Palo Alto Research Center.
+description: Shantanu Rane is a researcher in security and privacy.
 ---
 
-I lead cyber-physical systems research at [SRI](https://www.sri.com)'s Computer Science Laboratory. My research background is in applied cryptography, statistics and signal processing. My current projects revolve around fundamental and applied problems in security and privacy and resilience of cyber-physical systems.
+I conduct research in the areas of applied cryptography, privacy, machine learning and AI.
 
-I earned a Ph.D. in electrical engineering from [Stanford
-University](https://www.stanford.edu), California in 2007, a Masters in
-electrical engineering from
-[The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a
-Bachelors degree in instrumentation engineering from Pune University, India in 1999. I have previously worked at the National Center for Radio Astrophysics (Tata Institute of Fundamental Research, Pune); Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, MA; and Xerox PARC in Palo Alto, CA.
+I have a Ph.D. in electrical engineering from [Stanford University](https://www.stanford.edu), California in 2007, a Masters in electrical engineering from [The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a Bachelors degree in instrumentation engineering from Pune University, India in 1999. I have previously worked at the National Center for Radio Astrophysics (Tata Institute of Fundamental Research, Pune); Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, MA; Xerox PARC in Palo Alto, CA; and [SRI International](https://www.sri.com) in Menlo Park, CA. Most of my recent work was funded through grants from DARPA and other US government agencies.
 
 [CV](assets/docs/2022-03-Shantanu-Rane-Brief-CV.pdf) \| [IEEE biography](pages/ieeebio.md) \| [google scholar](https://scholar.google.com/citations?user=vE8fYtIAAAAJ&hl=en) \| [linkedin](https://www.linkedin.com/in/shantanu-rane-research/) <br/>
 
