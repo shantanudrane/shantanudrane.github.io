@@ -4,9 +4,9 @@ title: about
 description: Shantanu Rane is a researcher in security and privacy.
 ---
 
-I conduct research in the areas of applied cryptography, privacy, machine learning and AI.
+I conduct fundamental and applied research in cryptography, security, privacy, machine learning and AI.
 
-I have a Ph.D. in electrical engineering from [Stanford University](https://www.stanford.edu), California in 2007, a Masters in electrical engineering from [The University of Minnesota, Minneapolis](https://www.umn.edu) in 2001 and a Bachelors degree in instrumentation engineering from Pune University, India in 1999. 
+I studied electrical engineering for my Ph.D. at [Stanford University](https://www.stanford.edu) and my Masters degree at [The University of Minnesota, Minneapolis](https://www.umn.edu).
 
 I have previously worked at the [National Center for Radio Astrophysics](https://www.ncra.tifr.res.in) (Tata Institute of Fundamental Research, Pune); Mitsubishi Electric Research Laboratories ([MERL](http://www.merl.com)) in Cambridge, MA; [Xerox PARC](https://en.wikipedia.org/wiki/PARC_(company)) in Palo Alto, CA; and [SRI International](https://www.sri.com) in Menlo Park, CA. Most of my recent work was funded through grants from DARPA and other US government agencies.
 
