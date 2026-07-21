@@ -20,12 +20,11 @@ I have previously worked at the [National Center for Radio Astrophysics](https:/
     <div class="row-fluid">
         <div class="span5">
             Shantanu Rane<br/>
-            Palo Alto, CA, 94025<br/>
+            Palo Alto, CA.<br/>
             <br/><br/>
 
             <div id="hide_email">
             Email: sdrane AT gmail DOT com <br/>
-            Phone: +1-650-387-8086
             </div>
         </div>
 
