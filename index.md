@@ -31,7 +31,9 @@ I have previously worked at the [National Center for Radio Astrophysics](https:/
         <div class="span2">
         <a href="../assets/pics/Shantanu_Lara.jpg">
             <img src="../assets/pics/Shantanu_Lara.jpg"
-                  title="Shantanu Rane" alt="Shantanu Rane"/></a>
+                  title="Shantanu Rane" 
+                  alt="Shantanu Rane"
+                  style="vertical-align: top; max-width: 100%; height: auto;"/></a>
         </div>
     </div>
 </div>
